@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSVPicker", "HSVPicker.csproj", "{29A48B8D-9B0F-F0C2-9752-A18D2AAD4BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A2483FC1-7758-D3B0-C0D8-B613846E3B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSVPicker.Editors", "HSVPicker.Editors.csproj", "{AD2A6CA3-0830-1701-3306-EFCA3E7D0749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A48B8D-9B0F-F0C2-9752-A18D2AAD4BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A48B8D-9B0F-F0C2-9752-A18D2AAD4BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A48B8D-9B0F-F0C2-9752-A18D2AAD4BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A48B8D-9B0F-F0C2-9752-A18D2AAD4BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2483FC1-7758-D3B0-C0D8-B613846E3B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2483FC1-7758-D3B0-C0D8-B613846E3B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2483FC1-7758-D3B0-C0D8-B613846E3B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2483FC1-7758-D3B0-C0D8-B613846E3B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2A6CA3-0830-1701-3306-EFCA3E7D0749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2A6CA3-0830-1701-3306-EFCA3E7D0749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2A6CA3-0830-1701-3306-EFCA3E7D0749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2A6CA3-0830-1701-3306-EFCA3E7D0749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
